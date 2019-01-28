@@ -1,1 +1,7 @@
-# PersonalizedMusicExplorer
+# Personalized Music Explorer: A Hybrid Collaborative Filtering and Deep Learning Recommender-Based Music Generation System
+
+You can read more about the project and how to operate the system in 'PersonalizedMusicExplorer.pdf'
+
+# Abstract
+
+Music is intrinsically shaped by human interaction. Tradition, culture, and environment are all factors which have influenced how music is composed and listened to. With any creative form of expression, such as visual art or creative writing, influence is omnipresent. Machine learning has been used in almost every facet of art, and although it may never replace human composition, it can aid the process and understanding of creativity. This paper describes a multi-model song recommender and music generation system (explorer) which creates original compositions based off  music content from certain genres or from a user’s listening behavior, thus addressing the “variety” aspect of Big Data.  The song recommender system uses Collaborative Filtering to recommend songs to a user. The music generation system uses Content Based deep learning to create original pieces of music, influenced by MIDI music content data. Both categories of recommender systems have benefits and trade-offs; using these two systems together creates a hybrid recommendation and music generation exploration system which capitalizes from the benefits that each model provides. In addition to recommendation, using these models together can help users from multiple disciplines understand the nature of artistic expression, and how further comprehension of influence in music leads to new discoveries.
